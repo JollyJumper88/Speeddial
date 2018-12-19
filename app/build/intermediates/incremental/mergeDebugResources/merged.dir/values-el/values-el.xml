@@ -88,6 +88,7 @@
     <string name="settings_title_layout">Ρυθμίσεις Σχεδίου</string>
     <string name="settings_title_text">Ρυθμίσεις Γραμματοσειράς</string>
     <string name="settings_title_view">Προβολή Ρυθμίσεων</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="toast_cancelled">Ακυρώθηκε.</string>
     <string name="toast_copyToClip">Ο Αριθμός αντιγράφηκε στο clipboard.</string>
     <string name="toast_editShortcut">Επιλέξτε συντόμευση</string>
