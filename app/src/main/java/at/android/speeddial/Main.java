@@ -1,5 +1,6 @@
 package at.android.speeddial;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
@@ -9,6 +10,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -32,7 +34,9 @@ import android.provider.CallLog;
 import android.provider.ContactsContract;
 import android.provider.ContactsContract.Contacts;
 import android.provider.ContactsContract.QuickContact;
+import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.MenuItemCompat;
 import android.text.ClipboardManager;
 import android.util.DisplayMetrics;
@@ -140,6 +144,15 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        if (Build.VERSION.SDK_INT >= 23) {
+            // Marshmallow+
+            // check permission
+            int hasReadPermission = ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE);
+            if (hasReadPermission != PackageManager.PERMISSION_GRANTED) {
+                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 3344);
+            }
+        }
 
         if (DEBUG_STARTUP)
             System.out.println("Main: onCreate(Bundle savedInstanceState)");
@@ -369,44 +382,6 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
 
     }
 
-    // /**
-    // * Defines whether an Actionbar Item is shown.
-    // */
-    // private void setActionbarItemVisibility(Method methodSetShowAsAction,
-    // Menu menu) {
-    // try {
-    // int showFlag = 2; // 0=never, 1=ifroom, 2=always;
-    //
-    // if (mActionbarVc)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_viewcontact),
-    // showFlag);
-    // if (mActionbarLog)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_calllog), showFlag);
-    // if (mActionbarCon)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_contacts), showFlag);
-    // if (mActionbarDial)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_dialer), showFlag);
-    // if (mActionbarAc)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_actions), showFlag);
-    // if (mActionbarSc)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_scan), showFlag);
-    // if (mActionbarSet)
-    // methodSetShowAsAction.invoke(
-    // (MenuItem) menu.findItem(R.id.menu_settings), showFlag);
-    //
-    // // m1.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
-    //
-    // } catch (Exception e) {
-    // e.printStackTrace();
-    // }
-    // }
-
     /**
      * Either Inflate the Main Menu for ICS or the Gingerbread menu
      */
@@ -623,7 +598,8 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
                 showQuickContactMenu(mLongClickedButtonId, mQuickContactView);
                 return true;
             case R.id.contextmenu_replace:
-                return startContactPickerActivity(mLongClickedButtonId);
+                startContactPickerActivity(mLongClickedButtonId);
+                return true;
             case R.id.contextmenu_remove:
                 removeShortcut(mLongClickedButtonId);
                 return true;
@@ -810,14 +786,68 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
      *
      * @return
      */
-    private boolean startContactPickerActivity(int buttonId) {
-        Intent intent = new Intent(Intent.ACTION_PICK,
-                android.provider.ContactsContract.Contacts.CONTENT_URI);
+    private void startContactPickerActivity(int buttonId) {
 
         mButtonId = buttonId;
 
-        startActivityForResult(intent, CONTACT_PICKER_REQUEST_CODE);
-        return true;
+        if (Build.VERSION.SDK_INT >= 23) {
+            // Marshmallow+
+            // check permission
+            int hasReadPermission = ContextCompat.checkSelfPermission(this, Manifest.permission.READ_CONTACTS);
+            if (hasReadPermission != PackageManager.PERMISSION_GRANTED) {
+                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_CONTACTS}, 8989);
+            } else {
+                startContactPickerActivityForResult();
+            }
+        } else {
+            startContactPickerActivityForResult();
+        }
+    }
+
+    private void startContactPickerActivityForResult() {
+        startActivityForResult(new Intent(Intent.ACTION_PICK,
+                android.provider.ContactsContract.Contacts.CONTENT_URI), CONTACT_PICKER_REQUEST_CODE);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        switch (requestCode) {
+            case 8989: // pick contact
+                if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                    // Permission Granted
+                    startContactPickerActivityForResult();
+                } else {
+                    // Permission Denied
+                    Toast.makeText(this, getResources().getString(R.string.permissiondenied), Toast.LENGTH_SHORT)
+                            .show();
+                }
+                break;
+            case 1122: // call
+                if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                    // Permission Granted
+                    Toast.makeText(this, getResources().getString(R.string.permgrantedtapagain), Toast.LENGTH_SHORT)
+                            .show();
+                } else {
+                    // Permission Denied
+                    Toast.makeText(this, getResources().getString(R.string.permissiondenied), Toast.LENGTH_SHORT)
+                            .show();
+                }
+                break;
+            case 3344: // write ext storage
+                if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                    // Permission Granted
+                    Toast.makeText(this, getResources().getString(R.string.longpresstostart), Toast.LENGTH_LONG)
+                            .show();
+                } else {
+                    // Permission Denied
+                    Toast.makeText(this, getResources().getString(R.string.permsavecontact), Toast.LENGTH_LONG)
+                            .show();
+                    this.finish();
+                }
+                break;
+            default:
+                super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        }
     }
 
     /**
@@ -921,6 +951,23 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
 
             String uri = "tel:" + number;
 
+            if (Build.VERSION.SDK_INT >= 23) {
+                // Marshmallow+
+                // check permission
+                int hasReadPermission = ContextCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE);
+                if (hasReadPermission != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CALL_PHONE}, 1122);
+                } else {
+                    callContact02(uri, instantCall);
+                }
+            } else {
+                callContact02(uri, instantCall);
+            }
+        }
+    }
+
+    private void callContact02(String uri, boolean instantCall) {
+
             Intent intent;
             if (instantCall)
                 intent = new Intent(Intent.ACTION_CALL, Uri.parse(uri));
@@ -931,7 +978,7 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
 
             if (mAutoClose)
                 this.finish();
-        }
+
     }
 
     private void viewContact(int buttonId) {
@@ -1168,9 +1215,12 @@ public class Main extends Activity implements OnClickListener, OnTouchListener {
      * data object as parameter
      */
     private void saveDataStorage() {
+
         InternalFileStorage wotf = InternalFileStorage.getInstance();
         wotf.saveObjectToFile(mContactDataStorage, this);
+
     }
+
 
     // private void showInfoAlertDialog() {
     //
