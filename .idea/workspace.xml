@@ -11,497 +11,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="120cd051-993c-47b0-a0d1-50c8fb8368c8" name="Default" comment="">
+    <list default="true" id="7ad73b18-0196-4e75-8e80-8096135ba839" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/at/android/speeddial/test/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/at/android/speeddial/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/at/android/speeddial/test/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/ContactDataStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/InternalFileStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/MyViewFlipper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/at/android/speeddial/Settings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/at/android/speeddial/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/at/android/speeddial/BuildConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoJellyBeanMr2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatJellyBeanMr2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImplHC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$Delegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$DelegateProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle$SlideDrawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggleHoneycomb$SetIndicatorInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActionBarDrawerToggleHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityCompatJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityOptionsCompat$ActivityOptionsImplJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityOptionsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ActivityOptionsCompatJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/BackStackRecord$Op.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/BackStackRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/BackStackState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/BackStackState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/DialogFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/Fragment$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/Fragment$InstantiationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/Fragment$SavedState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/Fragment$SavedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/Fragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentActivity$FragmentTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentActivity$NonConfigurationInstances.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentContainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManager$BackStackEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManager$OnBackStackChangedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentManagerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentPagerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentStatePagerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost$DummyTabFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost$SavedState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost$SavedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost$TabInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTabHost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/FragmentTransaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ListFragment$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ListFragment$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ListFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/LoaderManager$LoaderCallbacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/LoaderManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/LoaderManagerImpl$LoaderInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/LoaderManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NavUtils$NavUtilsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NavUtils$NavUtilsImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NavUtils$NavUtilsImplJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NavUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NavUtilsJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NoSaveStateFrameLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$BigPictureStyle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$BigTextStyle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$InboxStyle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$NotificationCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$NotificationCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$NotificationCompatImplHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$NotificationCompatImplIceCreamSandwich.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$NotificationCompatImplJellybean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat$Style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompatIceCreamSandwich.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/NotificationCompatJellybean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ServiceCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$IntentBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$IntentReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$ShareCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$ShareCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$ShareCompatImplICS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat$ShareCompatImplJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompatICS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/ShareCompatJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/SuperNotCalledException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder$SupportParentable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplJellybean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilderHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/app/TaskStackBuilderJellybean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/AsyncTaskLoader$LoadTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/AsyncTaskLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ContextCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ContextCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ContextCompatJellybean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/CursorLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/FileProvider$PathStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/FileProvider$SimplePathStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/FileProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompat$IntentCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompat$IntentCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompat$IntentCompatImplHC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompat$IntentCompatImplIcsMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/IntentCompatIcsMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/Loader$ForceLoadContentObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/Loader$OnLoadCompleteListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/LocalBroadcastManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/LocalBroadcastManager$BroadcastRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/LocalBroadcastManager$ReceiverRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/LocalBroadcastManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$AsyncTaskResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$InternalHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask$WorkerRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/ModernAsyncTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/WakefulBroadcastReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/content/pm/ActivityInfoCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/database/DatabaseUtilsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/graphics/drawable/DrawableCompat$BaseDrawableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/graphics/drawable/DrawableCompat$DrawableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/graphics/drawable/DrawableCompat$HoneycombDrawableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/graphics/drawable/DrawableCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/graphics/drawable/DrawableCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/hardware/display/DisplayManagerCompat$JellybeanMr1Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/hardware/display/DisplayManagerCompat$LegacyImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/hardware/display/DisplayManagerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/hardware/display/DisplayManagerJellybeanMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/internal/view/SupportMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/internal/view/SupportMenuItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/internal/view/SupportSubMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediator$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediator$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorJellybeanMR2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorJellybeanMR2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorJellybeanMR2$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorJellybeanMR2$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportMediatorJellybeanMR2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportPerformer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/media/TransportStateListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat$ConnectivityManagerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat$GingerbreadConnectivityManagerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompatGingerbread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompatHoneycombMR2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/ConnectivityManagerCompatJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl$SocketTags.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$IcsTrafficStatsCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat$TrafficStatsCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/net/TrafficStatsCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/os/ParcelableCompat$CompatCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/os/ParcelableCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/os/ParcelableCompatCreatorCallbacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/os/ParcelableCompatCreatorHoneycombMR2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/os/ParcelableCompatCreatorHoneycombMR2Stub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/BidiFormatter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/BidiFormatter$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/BidiFormatter$DirectionalityEstimator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/BidiFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/ICUCompat$ICUCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/ICUCompat$ICUCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/ICUCompat$ICUCompatImplIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/ICUCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/ICUCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$AnyStrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$FirstStrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicLocale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextDirectionHeuristicsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/text/TextUtilsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/AtomicFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/DebugUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/LogWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/LongSparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/LruCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/SparseArrayCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/util/TimeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatIcs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatIcs$AccessibilityDelegateBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatJellyBean$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatJellyBean$AccessibilityDelegateBridgeJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/AccessibilityDelegateCompatJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ActionProvider$SubUiVisibilityListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ActionProvider$VisibilityListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ActionProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GestureDetectorCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GravityCompat$GravityCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GravityCompat$GravityCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GravityCompat$GravityCompatImplJellybeanMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GravityCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/GravityCompatJellybeanMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompat$BaseKeyEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompat$EclairKeyEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompat$HoneycombKeyEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompat$KeyEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompatEclair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/KeyEventCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImplJbMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MarginLayoutParamsCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MarginLayoutParamsCompatJellybeanMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$BaseMenuVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$HoneycombMenuVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$IcsMenuVersionImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$IcsMenuVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$MenuVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat$OnActionExpandListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompatIcs$OnActionExpandListenerWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompatIcs$SupportActionExpandProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MenuItemCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MotionEventCompat$BaseMotionEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MotionEventCompat$EclairMotionEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MotionEventCompat$MotionEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MotionEventCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/MotionEventCompatEclair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTabStrip$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTabStrip$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTabStrip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip$PageListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip$PagerTitleStripImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip$PagerTitleStripImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip$PagerTitleStripImplIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStrip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStripIcs$SingleLineAllCapsTransform.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/PagerTitleStripIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/VelocityTrackerCompat$BaseVelocityTrackerVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/VelocityTrackerCompat$VelocityTrackerVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/VelocityTrackerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/VelocityTrackerCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$BaseViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$EclairMr1ViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$GBViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$HCViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$ICSViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$JBViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$JbMr1ViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat$ViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatEclairMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatGingerbread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatHC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatICS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewCompatJellybeanMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewConfigurationCompat$BaseViewConfigurationVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewConfigurationCompat$FroyoViewConfigurationVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewConfigurationCompat$ViewConfigurationVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewConfigurationCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewConfigurationCompatFroyo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompat$ViewGroupCompatHCImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompat$ViewGroupCompatIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompat$ViewGroupCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompat$ViewGroupCompatStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompatHC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewGroupCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$Decor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$ItemInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$LayoutParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$MyAccessibilityDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$OnAdapterChangeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$OnPageChangeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$PageTransformer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$PagerObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$SavedState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$SavedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$SimpleOnPageChangeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager$ViewPositionComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewPager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewParentCompat$ViewParentCompatICSImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewParentCompat$ViewParentCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewParentCompat$ViewParentCompatStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewParentCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/ViewParentCompatICS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/WindowCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityEventCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityEventCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerIcsImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerVersionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs$AccessibilityStateChangeListenerBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanMr2Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellybeanMr2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean$AccessibilityNodeInfoBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordIcsMr1Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordJellyBeanImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompatIcsMr1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/view/accessibility/AccessibilityRecordCompatJellyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorAdapter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorAdapter$ChangeObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorAdapter$MyDataSetObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorFilter$CursorFilterClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/CursorFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$AccessibilityDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$DrawerListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$LayoutParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$SavedState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$SavedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$SimpleDrawerListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$ViewDragCallback$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout$ViewDragCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/DrawerLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/EdgeEffectCompat$BaseEdgeEffectImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/EdgeEffectCompat$EdgeEffectIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/EdgeEffectCompat$EdgeEffectImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/EdgeEffectCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/EdgeEffectCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ExploreByTouchHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ExploreByTouchHelper$ExploreByTouchNodeProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ExploreByTouchHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ResourceCursorAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompat$ScrollerCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplGingerbread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompatGingerbread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ScrollerCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$OnCloseListenerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$OnQueryTextListenerCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatIcsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat$SearchViewCompatStubImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatHoneycomb$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatHoneycomb$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatHoneycomb$OnCloseListenerCompatBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatHoneycomb$OnQueryTextListenerCompatBridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatHoneycomb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatIcs$MySearchView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SearchViewCompatIcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SimpleCursorAdapter$CursorToStringConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SimpleCursorAdapter$ViewBinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SimpleCursorAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$AccessibilityDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$DisableLayerRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$DragHelperCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$LayoutParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$PanelSlideListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SavedState$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SavedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SimplePanelSlideListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplJB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplJBMR1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/SlidingPaneLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ViewDragHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ViewDragHelper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ViewDragHelper$Callback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_e48wmgqts6klrz4x5kzqbe54n/android/support/v4/widget/ViewDragHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_l0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_l0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_menu_actionbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu_actionbar.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -524,21 +48,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+            <state relative-caret-position="323">
+              <caret line="1636" column="63" selection-start-line="1636" selection-start-column="63" selection-end-line="1636" selection-end-column="63" />
+              <folding>
+                <element signature="e#13698#13758#0" expanded="true" />
+                <element signature="e#13819#13879#0" expanded="true" />
+                <element signature="e#13940#14000#0" expanded="true" />
+                <element signature="e#14061#14121#0" expanded="true" />
+                <element signature="e#18039#18066#0" expanded="true" />
+                <element signature="e#18226#18253#0" expanded="true" />
+                <element signature="e#19283#19307#0" expanded="true" />
+                <element signature="e#22852#22879#0" expanded="true" />
+                <element signature="e#23132#23154#0" expanded="true" />
+                <element signature="e#23599#23671#0" expanded="true" />
+                <element signature="e#23776#23846#0" expanded="true" />
+                <element signature="e#23924#24977#0" expanded="true" />
+                <element signature="e#24605#24625#0" expanded="true" />
+                <element signature="e#24822#24845#0" expanded="true" />
+                <element signature="e#24976#24977#0" expanded="true" />
+                <element signature="e#25059#25286#0" expanded="true" />
+                <element signature="e#25285#25286#0" expanded="true" />
+                <element signature="e#25361#25716#0" expanded="true" />
+                <element signature="e#25549#25573#0" expanded="true" />
+                <element signature="e#25715#25716#0" expanded="true" />
+                <element signature="e#27288#27308#0" expanded="true" />
+                <element signature="e#27426#27450#0" expanded="true" />
+                <element signature="e#30465#30516#0" expanded="true" />
+                <element signature="e#30806#30860#0" expanded="true" />
+                <element signature="e#31026#31077#0" expanded="true" />
+                <element signature="e#31380#31431#0" expanded="true" />
+                <element signature="e#31596#31646#0" expanded="true" />
+                <element signature="e#34879#34899#0" expanded="true" />
+                <element signature="e#35857#35880#0" expanded="true" />
+                <element signature="e#39727#39752#0" expanded="true" />
+                <element signature="e#41999#42026#0" expanded="true" />
+                <element signature="e#45785#45821#0" expanded="true" />
+                <element signature="e#45890#46759#0" expanded="true" />
+                <element signature="e#46431#46451#0" expanded="true" />
+                <element signature="e#46758#46759#0" expanded="true" />
+                <element signature="e#46826#47139#0" expanded="true" />
+                <element signature="e#47014#47037#0" expanded="true" />
+                <element signature="e#47138#47139#0" expanded="true" />
+                <element signature="e#47418#47489#0" expanded="true" />
+                <element signature="e#47585#47664#0" expanded="true" />
+                <element signature="e#47697#47769#0" expanded="true" />
+                <element signature="e#47802#47877#0" expanded="true" />
+                <element signature="e#47910#47986#0" expanded="true" />
+                <element signature="e#48019#48094#0" expanded="true" />
+                <element signature="e#48127#48201#0" expanded="true" />
+                <element signature="e#48234#48306#0" expanded="true" />
+                <element signature="e#48339#48413#0" expanded="true" />
+                <element signature="e#48446#48518#0" expanded="true" />
+                <element signature="e#48551#48623#0" expanded="true" />
+                <element signature="e#48734#48767#0" expanded="true" />
+                <element signature="e#48838#51017#0" expanded="true" />
+                <element signature="e#51016#51017#0" expanded="true" />
+                <element signature="e#51086#51399#0" expanded="true" />
+                <element signature="e#51274#51298#0" expanded="true" />
+                <element signature="e#51398#51399#0" expanded="true" />
+                <element signature="e#56702#56710#0" expanded="true" />
+                <element signature="e#62260#63143#0" expanded="true" />
+                <element signature="e#63142#63143#0" expanded="true" />
+                <element signature="e#63193#64809#0" expanded="true" />
+                <element signature="e#64808#64809#0" expanded="true" />
+                <element signature="e#64859#65650#0" expanded="true" />
+                <element signature="e#65649#65650#0" expanded="true" />
+                <element signature="e#66648#66691#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-            </state>
+      <file leaf-file-name="main_l0.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_l0.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -550,39 +140,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="85" selection-start-line="2" selection-start-column="85" selection-end-line="2" selection-end-column="85" />
-              <folding>
-                <element signature="e#503#521#0" expanded="true" />
-                <element signature="e#610#628#0" expanded="true" />
-                <element signature="e#954#972#0" expanded="true" />
-              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="831" column="75" selection-start-line="831" selection-start-column="75" selection-end-line="831" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Translations Editor" pinned="false" current-in-tab="false">
-        <entry file="android-dummy://C:/Users/RZA/AndroidStudioProjects/Speeddial/app/Translations Editor">
-          <provider selected="true" editor-type-id="string-resource-editor">
-            <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\RZA\AndroidStudioProjects\my_release_key.keystore" />
+    <option name="KEY_ALIAS" value="specialk" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2847,10 +2415,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/main_l0.xml" />
       </list>
     </option>
   </component>
@@ -2897,24 +2464,25 @@
               <item name="Speeddial" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="Speeddial" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="C:\Users\RZA\AndroidStudioProjects\Speeddial\app" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
     <property name="android.sdk.path" value="C:/Android/sdk" />
     <property name="device.picker.selection" value="4df1e9d83d046f6b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_release_key.keystore" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -3063,16 +2631,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="120cd051-993c-47b0-a0d1-50c8fb8368c8" name="Default" comment="" />
-      <created>1545236318144</created>
+      <changelist id="7ad73b18-0196-4e75-8e80-8096135ba839" name="Default" comment="" />
+      <created>1546986986254</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1545236318144</updated>
+      <updated>1546986986254</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" />
@@ -3090,19 +2659,18 @@
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" visible="true" weight="0.3295063" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295063" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="StringPreview" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -3110,27 +2678,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_l0.xml">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="android-dummy://C:/Users/RZA/AndroidStudioProjects/Speeddial/app/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
+      <provider editor-type-id="text-editor">
         <state />
       </provider>
     </entry>
@@ -3141,18 +2693,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="85" selection-start-line="2" selection-start-column="85" selection-end-line="2" selection-end-column="85" />
-          <folding>
-            <element signature="e#503#521#0" expanded="true" />
-            <element signature="e#610#628#0" expanded="true" />
-            <element signature="e#954#972#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/at/android/speeddial/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="831" column="75" selection-start-line="831" selection-start-column="75" selection-end-line="831" selection-end-column="75" />
+        <state relative-caret-position="323">
+          <caret line="1636" column="63" selection-start-line="1636" selection-start-column="63" selection-end-line="1636" selection-end-column="63" />
+          <folding>
+            <element signature="e#13698#13758#0" expanded="true" />
+            <element signature="e#13819#13879#0" expanded="true" />
+            <element signature="e#13940#14000#0" expanded="true" />
+            <element signature="e#14061#14121#0" expanded="true" />
+            <element signature="e#18039#18066#0" expanded="true" />
+            <element signature="e#18226#18253#0" expanded="true" />
+            <element signature="e#19283#19307#0" expanded="true" />
+            <element signature="e#22852#22879#0" expanded="true" />
+            <element signature="e#23132#23154#0" expanded="true" />
+            <element signature="e#23599#23671#0" expanded="true" />
+            <element signature="e#23776#23846#0" expanded="true" />
+            <element signature="e#23924#24977#0" expanded="true" />
+            <element signature="e#24605#24625#0" expanded="true" />
+            <element signature="e#24822#24845#0" expanded="true" />
+            <element signature="e#24976#24977#0" expanded="true" />
+            <element signature="e#25059#25286#0" expanded="true" />
+            <element signature="e#25285#25286#0" expanded="true" />
+            <element signature="e#25361#25716#0" expanded="true" />
+            <element signature="e#25549#25573#0" expanded="true" />
+            <element signature="e#25715#25716#0" expanded="true" />
+            <element signature="e#27288#27308#0" expanded="true" />
+            <element signature="e#27426#27450#0" expanded="true" />
+            <element signature="e#30465#30516#0" expanded="true" />
+            <element signature="e#30806#30860#0" expanded="true" />
+            <element signature="e#31026#31077#0" expanded="true" />
+            <element signature="e#31380#31431#0" expanded="true" />
+            <element signature="e#31596#31646#0" expanded="true" />
+            <element signature="e#34879#34899#0" expanded="true" />
+            <element signature="e#35857#35880#0" expanded="true" />
+            <element signature="e#39727#39752#0" expanded="true" />
+            <element signature="e#41999#42026#0" expanded="true" />
+            <element signature="e#45785#45821#0" expanded="true" />
+            <element signature="e#45890#46759#0" expanded="true" />
+            <element signature="e#46431#46451#0" expanded="true" />
+            <element signature="e#46758#46759#0" expanded="true" />
+            <element signature="e#46826#47139#0" expanded="true" />
+            <element signature="e#47014#47037#0" expanded="true" />
+            <element signature="e#47138#47139#0" expanded="true" />
+            <element signature="e#47418#47489#0" expanded="true" />
+            <element signature="e#47585#47664#0" expanded="true" />
+            <element signature="e#47697#47769#0" expanded="true" />
+            <element signature="e#47802#47877#0" expanded="true" />
+            <element signature="e#47910#47986#0" expanded="true" />
+            <element signature="e#48019#48094#0" expanded="true" />
+            <element signature="e#48127#48201#0" expanded="true" />
+            <element signature="e#48234#48306#0" expanded="true" />
+            <element signature="e#48339#48413#0" expanded="true" />
+            <element signature="e#48446#48518#0" expanded="true" />
+            <element signature="e#48551#48623#0" expanded="true" />
+            <element signature="e#48734#48767#0" expanded="true" />
+            <element signature="e#48838#51017#0" expanded="true" />
+            <element signature="e#51016#51017#0" expanded="true" />
+            <element signature="e#51086#51399#0" expanded="true" />
+            <element signature="e#51274#51298#0" expanded="true" />
+            <element signature="e#51398#51399#0" expanded="true" />
+            <element signature="e#56702#56710#0" expanded="true" />
+            <element signature="e#62260#63143#0" expanded="true" />
+            <element signature="e#63142#63143#0" expanded="true" />
+            <element signature="e#63193#64809#0" expanded="true" />
+            <element signature="e#64808#64809#0" expanded="true" />
+            <element signature="e#64859#65650#0" expanded="true" />
+            <element signature="e#65649#65650#0" expanded="true" />
+            <element signature="e#66648#66691#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
